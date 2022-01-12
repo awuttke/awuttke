@@ -1,4 +1,6 @@
-### Hi there 👋
+## About me
+
+I started as a COBOL developer back in 1987. After studying computer science my journey continued primarily using C/C++ until Java became more and more popular. Since then Java is still my primary programming languange.
 
 <!--
 **awuttke/awuttke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👋
 -->
